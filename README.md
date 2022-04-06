@@ -5,7 +5,7 @@
 
 ### AEIOUY
 
-By the vowel letters in the Latin alphabet are the lettersA, E, I, O, U and Y. The remaining letters are consonants. Write a program counting the number of vowels in the text.
+By the vowel letters in the Latin alphabet are the lettersA, E, I, O and U. The remaining letters are consonants. Write a program counting the number of vowels in the text.
 
 ### Input
 In the input file contains one line of text, consisting only of capital Latin letters and spaces. The string length does not exceed100characters.
